@@ -95,6 +95,8 @@ object SparkGitPackObj {
 	      )
 	      
 	      println
+	  println
+	  println
 	      println
 	      println("=========================FLATTEN TO RAW DATA BACK=====================")
 	      raw_data_step1.show(5,false)
